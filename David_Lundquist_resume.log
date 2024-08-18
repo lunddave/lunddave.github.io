@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.21)  18 AUG 2024 12:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.21)  18 AUG 2024 12:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -633,73 +633,73 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
 (Font)              scaled to size 35.0pt on input line 174.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 181.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 179.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 181.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 181.
+(Font)              scaled to size 8.0pt on input line 179.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 179.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 185.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 181.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <8> not available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 185.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 191.
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 181.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 187.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 201.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 197.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 201.
+(Font)              scaled to size 14.4pt on input line 197.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 201.
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 197.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 14.4pt on input line 201.
+(Font)              scaled to size 14.4pt on input line 197.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 205.
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 200.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 10.0pt on input line 205.
+(Font)              scaled to size 10.0pt on input line 200.
 
-Overfull \hbox (11.86119pt too wide) in paragraph at lines 205--205
+Overfull \hbox (11.86119pt too wide) in paragraph at lines 200--200
 []\T1/SourceSansPro-TLF/bold/n/10 PhD 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+SourceSansPro-TLF on input line 208.
+LaTeX Font Info:    Trying to load font information for TS1+SourceSansPro-TLF on input line 203.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/sourcesanspro/TS1SourceSansPro-TLF.fd
 File: TS1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for TS1/SourceSansPro-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 208.
+(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 203.
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 208.
+(Font)              scaled to size 10.0pt on input line 203.
 
-Overfull \hbox (2.10008pt too wide) in paragraph at lines 213--214
+Overfull \hbox (2.10008pt too wide) in paragraph at lines 208--209
 []\T1/SourceSansPro-TLF/regular/n/10 unsupervised learn-ing: t-SNE, UMAP, K-means/medoids, hi-er-ar-chi-cal clus-ter-ing e.g.
  []
 
 
-Overfull \hbox (6.98119pt too wide) in paragraph at lines 223--223
+Overfull \hbox (6.98119pt too wide) in paragraph at lines 218--218
 []\T1/SourceSansPro-TLF/bold/n/10 MS 
  []
 
 
-Overfull \hbox (5.6512pt too wide) in paragraph at lines 249--249
+Overfull \hbox (5.6512pt too wide) in paragraph at lines 234--234
 []\T1/SourceSansPro-TLF/bold/n/10 BA 
  []
 
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 250.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 235.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 250.
+(Font)              scaled to size 10.0pt on input line 235.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 308.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 277.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 9.0pt on input line 308.
+(Font)              scaled to size 9.0pt on input line 277.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 308.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 277.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 9.0pt on input line 308.
+(Font)              scaled to size 9.0pt on input line 277.
 [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}]
-Overfull \hbox (10.47246pt too wide) in paragraph at lines 338--339
+Overfull \hbox (10.47246pt too wide) in paragraph at lines 307--308
 []\T1/SourceSansPro-TLF/regular/n/10 Built mon-i-tor-ing sys-tem for anoma-lies in time se-ries of credit card seg-ments, in-clud-ing change-
  []
 
