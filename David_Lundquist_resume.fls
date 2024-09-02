@@ -841,6 +841,9 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/sourcesanspro/TS1SourceSansPr
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-tlf-ts1.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-It-tlf-t1.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Bold-tlf-t1.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-tlf-t1.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-tlf-ts1.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-tlf-t1.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-It-tlf-t1.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/sourcesanspro/SourceSansPro-Bold-tlf-t1.vf
@@ -861,6 +864,10 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSan
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/sourcesanspro/SourceSansPro-It-tlf-t1.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-It-tlf-t1--base.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/sourcesanspro/SourceSansPro-Bold-tlf-t1.vf
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Bold-tlf-t1--base.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/sourcesanspro/SourceSansPro-Regular-tlf-ts1.vf
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-tlf-ts1--base.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/sourcesanspro/SourceSansPro-It-tlf-t1.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-It-tlf-t1--base.tfm
 INPUT David_Lundquist_resume.aux

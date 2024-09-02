@@ -197,18 +197,19 @@
     \section{Education}
 
         \begin{threecolentry}{\textbf{PhD}}{
+            Aug 2019 - Oct 2024 (expected)
         }
             \textbf{University of Illinois, Urbana-Champaign}, Statistics
             \begin{highlights}
-                \item GPA: 3.79/4.0 (\href{https://drive.google.com/file/d/1M7550b6c3y2ouXh2ZI5Z0Wn1COA5vaaq/view?usp=sharing}{Transcript}, \href{https://stat.illinois.edu/directory/profile/davidl11}{University Webpage})
-                \item \textbf{Research:} stochastic processes, time series econometrics, supervised learning, reinforcement learning, point forecasts, density and quantile forecasts, forecast combination, model averaging, econometric analysis of shocks, panel data, volatility modeling, recession forecasting using ML
+                \item GPA: 3.79/4.0 (\href{https://drive.google.com/file/d/1M7550b6c3y2ouXh2ZI5Z0Wn1COA5vaaq/view?usp=sharing}{Transcript} and \href{https://stat.illinois.edu/directory/profile/davidl11}{University Webpage})
+                \item \textbf{Interests (with hyperlinks to research):} stochastic processes, time series econometrics, supervised learning, reinforcement learning,  forecasts, point/density/quantile forecasts, \href{https://github.com/lunddave/synthetic_vol_forecasting/blob/main/unifying_forecast_adjustment.pdf}{forecast adjustment}, forecast combination, model averaging, econometric analysis of shocks, panel data, volatility modeling, \href{https://github.com/lunddave/Shiller_CAPE_Total_Return}{equity valuation modeling}, recession forecasting using ML, statistical software engineering, \href{https://github.com/lunddave/synthetic_vol_forecasting/blob/main/simulations/simulation_draft.R}{simulations}
                 \item \textbf{Coursework:} \begin{itemize}
                 \item GLMs incl. linear, logistic, and Poisson regression; fixed, random, mixed effects
                 \item supervised learning: LASSO / Ridge, random forest, boosted trees, SVM
                 \item unsupervised learning: t-SNE, UMAP, K-means/medoids, hierarchical clustering e.g. HDBSCAN, Gaussian mixtures, self-organizing maps, nonnegative matrix factorization
                 \item Deep Learning: PyTorch, TensorFlow, Keras, JAX
                 \item Optimization, cts and discrete, gradient descent, mixed integer programming
-                \item Natural Language Processing (NLP) including Word2Vec, Doc2Vec, LDA, BERT, RAG, grounding and fine-tuning LLMs
+                \item Natural Language Processing (NLP) including Word2Vec, Doc2Vec, LDA, BERT, RAG, Text2SQL, grounding and fine-tuning LLMs 
                 \end{itemize}
             \end{highlights}
         \end{threecolentry}
@@ -221,14 +222,24 @@
                 \item GPA: 3.4/4.0 (\href{https://drive.google.com/file/d/1ElK1L-hWLu382HErsSheIId88qg1CaGG/view?usp=sharing}{Transcript})
                 \item \textbf{Coursework:} 
                 \begin{itemize} 
-                    \item times series including ARIMA/GARCH/LSTM/GRU models, forecasting, changepoint detection
+                    \item ARIMA/GARCH/LSTM/GRU models, forecasting, changepoint detection
                     \item multivariate analysis including PCA, factor models, canonical correlation analysis
                     \item  analysis of algorithms and complexity theory; cryptography including RSA
-                    \item biostatistics / causal inference, survival models, synthetic control, DiD, matching
+                    \item biostatistics / causal inference, A/B testing, survival models, synthetic control, DiD, matching, propensity score matching, inverse propensity score weighting, switchback/crossover designs
                 \end{itemize}
             \end{highlights}
         \end{threecolentry}
 
+        % \begin{threecolentry}{\textbf{MA}}{
+        %     August 2013 to August 2015
+        % }
+        %     \textbf{University of Michigan, Ann Arbor}, Chinese Studies
+        %     \begin{highlights}
+        %         \item GPA: 3.68/4.0 (\href{https://example.com}{Transcript})
+        %         \item \textbf{Coursework:} Intermediate Microeconomics, Politican Economy of P.R. China
+        %     \end{highlights}
+        % \end{threecolentry}
+   
         \begin{threecolentry}{\textbf{BA}}{
             Aug 2005 - Dec 2007
         }
@@ -241,12 +252,29 @@
     \section{Experience}
 
         \begin{twocolentry}{
+            Santa Barbara, California
+
+        Jul 2024 - Oct 2024
+
+        }   \fontsize{14 pt}{20 pt}
+            \textbf{Amazon}, Alexa and Amazon Devices, Data Scientist II Intern
+            \begin{highlights}
+                \item prompt-engineering and LLM-generated SQL syntax using \href{https://huggingface.co/docs/trl/main/en/sft_trainer}{Supervised Fine-Tuning (SFT)}
+                \item improving Alexa by generating synthetic data for AI-powered Alexa in development
+                \item evaluating software tools for identifying drivers and subcomponents of major metric trends
+            \end{highlights}
+        \end{twocolentry}
+
+        \vspace{0.2 cm}
+
+        \begin{twocolentry}{
             Seattle, USA
 
         Aug 2023 - Dec 2023
 
         }
-        \textbf{Amazon}, Payments, Data Science Intern
+        \fontsize{14 pt}{20 pt}
+        \textbf{Amazon}, Payments, Data Scientist II Intern
             \begin{highlights}
                 \item Reduced churn from Amazon Currency Converter using parametric modeling (Cox proportional hazards (CPH) with time-varying covariates), accelerated failure time (AFT), multi-state models, as well as packages PySurvival and Scikit-Survival; provided richer business-actionable information compared to classification approaches to churn, including (1) probabilities of progression to the early warning signs of churn, (2) seller disbursement dollar amounts at risk, and (3) causal inference on variables driving churn, calling out the troubling features of each seller.
 
@@ -261,9 +289,10 @@
         May 2023 - Aug 2023
 
         }
-            \textbf{Google}, Developer Intelligence, Data Science Intern
+            \fontsize{14 pt}{20 pt}
+            \textbf{Google}, Developer Intelligence (DevIntel), Data Science Intern
             \begin{highlights}
-                \item Built metric-monitoring system using Python targeting changepoints and trends by augmenting the \href{https://arxiv.org/pdf/1101.1438}{PELT} algorithm, with twin goals of spotting unusual activity in developer productivity and supporting dashboards for manual explorations of productivity. Validated system via simulations and used asymmetric Jaccard index to compare inferred changepoints and trend with the ground truth; asymmetry reflects greater danger of false negatives.
+                \item Built production-ready metric-monitoring system using Python targeting changepoints and trends by augmenting the \href{https://arxiv.org/pdf/1101.1438}{PELT} algorithm, with twin goals of spotting unusual activity in developer productivity and supporting dashboards for manual explorations of productivity. Validated system via simulations and used asymmetric Jaccard index to compare inferred changepoints and trend with the ground truth; asymmetry reflects greater danger of false negatives.  Additionally, assisted with A/B tests exploring efficacy of developer tools on productivity, including checks on covariate balance and network effects.
             \end{highlights}
         \end{twocolentry}
 
@@ -275,9 +304,10 @@
         May 2022 - Aug 2022
 
         }
+            \fontsize{14 pt}{20 pt}
             \textbf{Google}, Core Compute Analytics (CCA), Google Cloud, Data Science Intern
             \begin{highlights}
-                \item Led GCROC project aimed at classifying Borg compute jobs suitable for spatial shifting, with goal of reducing carbon and energy expenditure while limiting transmission costs, yielding a classifier that correctly recalls over 98\% of shiftable Google Compute Units (GCU). Furnished ML pipeline with real-time classification of previously-witnessed Borg jobs as well as novel jobs.  GCROC covered \href{https://www.economist.com/technology-quarterly/2024/01/29/data-centres-improved-greatly-in-energy-efficiency-as-they-grew-massively-larger}{here in The Economist} and \href{https://www.bloomberg.com/news/articles/2024-02-25/ai-increases-data-center-energy-use-google-pioneered-technique-could-help}{here in Bloomberg}.
+                \item Led GCROC project aimed at classifying Borg compute jobs suitable for spatial shifting, with goal of reducing carbon and energy expenditure while limiting transmission costs, yielding a classifier that correctly recalls over 98\% of shiftable Google Compute Units (GCU). Furnished ML pipeline in Plex for real-time classification of previously-witnessed Borg jobs as well as novel jobs.  GCROC covered \href{https://www.economist.com/technology-quarterly/2024/01/29/data-centres-improved-greatly-in-energy-efficiency-as-they-grew-massively-larger}{here in The Economist} and \href{https://www.bloomberg.com/news/articles/2024-02-25/ai-increases-data-center-energy-use-google-pioneered-technique-could-help}{here in Bloomberg}.
             \end{highlights}
         \end{twocolentry}
 
@@ -291,24 +321,24 @@
         }
             \textbf{Point72}, Market Intelligence Intern
             \begin{highlights}
-                \item Analyzed streaming providers (Netflix, Disney+, etc) using Python, PySpark, and 30TB of alternative to develop leading indicators, metrics, KPIs, and graphics for use in dashboards available to market analysts and portfolio managers, preparing traders for Netflix's 75\% stock price decline from 2021 to 2022.
+                \item Analyzed streaming providers (Netflix, Disney+, etc) using Python, PySpark, and 30TB of alternative to develop leading indicators, metrics, KPIs, and graphics for use in dashboards available to market analysts and portfolio managers, preparing traders for Netflix's 75\% stock price decline from its peak in 2021 to its trough in 2022.
             \end{highlights}
         \end{twocolentry}
 
         \vspace{0.2 cm}
 
-        \begin{twocolentry}{
-            Charlotte, North Carolina
+        % \begin{twocolentry}{
+        %     Charlotte, North Carolina
 
-        Jun 2019 - Aug 2019
-        }
-            \textbf{Bank of America}, Quantitative Risk Intern
-            \begin{highlights}
-                \item Built monitoring system for anomalies in time series of credit card segments, including changepoint detection; wrote Python package for enhanced user experience.
-            \end{highlights}
-        \end{twocolentry}
+        % Jun 2019 - Aug 2019
+        % }
+        %     \textbf{Bank of America}, Quantitative Risk Intern
+        %     \begin{highlights}
+        %         \item Built monitoring system for anomalies in time series of credit card segments, including changepoint detection; wrote Python package for enhanced user experience.
+        %     \end{highlights}
+        % \end{twocolentry}
 
-        \vspace{0.2 cm}
+        % \vspace{0.2 cm}
 
         \begin{twocolentry}{
             Beijing, P.R. China
@@ -368,13 +398,13 @@
     \section{Technological Skills}
         
         \begin{onecolentry}
-            \textbf{Languages:} Python, R, Unix, C++, Java, SQL, Shiny
+            \textbf{Languages:} Python, R, C++, Java, SQL, Shiny
         \end{onecolentry}
 
         \vspace{0.2 cm}
 
         \begin{onecolentry}
-            \textbf{Software:} AWS tech stack, PyTorch, TensorFlow, Keras, JAX, PySpark, pandas, polars, dash, ggplot
+            \textbf{Software:} AWS and GCP tech stacks, SLURM, Git, Unix, PyTorch, TensorFlow, Keras, JAX, PySpark, pandas, polars, numpy, matplotlib, dash, ggplot
         \end{onecolentry} 
 
         \section{Miscellaneous}
