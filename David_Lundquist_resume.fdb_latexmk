@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1730509814.532 "/Users/davidlundquist/Desktop/website/lunddave.github.io/David_Lundquist_resume.tex" "David_Lundquist_resume.pdf" "David_Lundquist_resume" 1730509815.16545 0
-  "/Users/davidlundquist/Desktop/website/lunddave.github.io/David_Lundquist_resume.tex" 1730509814.35813 18780 638d1de281425316316dd521a167a8a6 ""
+["pdflatex"] 1731722415.85449 "/Users/davidlundquist/Desktop/website/lunddave.github.io/David_Lundquist_resume.tex" "David_Lundquist_resume.pdf" "David_Lundquist_resume" 1731722416.43194 0
+  "/Users/davidlundquist/Desktop/website/lunddave.github.io/David_Lundquist_resume.tex" 1731722414.98195 18740 4bcd5f5ec0ab3524ebd260cc63645139 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1622837620 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
@@ -122,8 +122,8 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1726429275.63545 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1726429188 8221430 faf366a6029b154b9123a4214548c916 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "David_Lundquist_resume.aux" 1730509815.07796 2644 de8305e0779e09621f9d86d5ec4cce1b "pdflatex"
-  "David_Lundquist_resume.tex" 1730509814.35813 18780 638d1de281425316316dd521a167a8a6 ""
+  "David_Lundquist_resume.aux" 1731722416.3514 2644 44366942a193a83e791f56e8a409046d "pdflatex"
+  "David_Lundquist_resume.tex" 1731722414.98195 18740 4bcd5f5ec0ab3524ebd260cc63645139 ""
   (generated)
   "David_Lundquist_resume.aux"
   "David_Lundquist_resume.log"
